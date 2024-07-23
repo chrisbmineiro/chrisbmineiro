@@ -1,8 +1,9 @@
-# Christopher Barros
-- Bem-vindo ao meu perfil GitHub! Sou Christopher Barros, sou apaixonado por tecnologia e atualmente estou no 5º semestre de Ciência da Computação. 😊
-- Gosto muito de esportes, tecnologia e sou apaixonado por animais, pai de 4 gatos e 1 cachorrinho tenho eles como minha familia.
-- Gostaria de contribuir em projetos open source a fim de ganhar experiencia, seja front-end, back-end, infraestutura e as diversar áreas da TI.
-- Sempre em busca de conhecimento.
+<ul>
+  <li>Ola, bem-vindo ao meu perfil no GitHub! Sou Christopher, um apaixonado por tecnologia e estudante de Ciência da Computação. 😊 </li>
+  <li>Gosto muito de esportes e sou apaixonado por animais, pai de 4 gatos e 1 cachorrinho, que considero minha família. </li>
+  <li>Estou sempre em busca de conhecimento e gostaria de contribuir para projetos open source e parcerias para ganhar experiência.</li>
+  <li>Posso contribuir no front-end, back-end, infraestrutura e várias áreas da TI.</li>
+</ul>
   
 ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chrisbmineiro@gmail.com)
@@ -12,15 +13,17 @@
 
 ## Algumas das tecnologias que eu tenho conhecimento:
 ## Linguagens de Programação
-- Básico: C, C++, C#, Python, SQL, React, Angular, PHP, NodeJS, TypeScript
-- Intermediário: JavaScript, HTML5, CSS3
+- **Básico:** C/C++, Java, Python, SQL, PHP, Nodejs, VBA.
+- **Intermediário:** JavaScript/TypeScript, HTML, CSS.
+## Frameworks
+- **Básico:** React, Angular, Spring Boot, Django.
 ## Infraestrutura e Cloud
-- Básico: AWS
+- **Básico:** AWS, Azure, Redes de Computadores, Linux Ubuntu Server.
 ## Ferramentas de Versionamento
-- Git e GitHub
+- **Intermediárioa:** Git e GitHub
 ## Inglês
-- Intermediário: Compreensão e expressão oral
-- Avançado: Leitura e escrita
+- **Intermediário:** Compreensão e expressão oral
+- **Avançado:** Leitura e escrita
 ## Projetos
 - Sinta-se livre para me dar sugestões de melhorias nos meus projetos.
 
