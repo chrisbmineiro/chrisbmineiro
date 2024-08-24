@@ -39,8 +39,8 @@ Estou à disposição para colaborar em projetos open source que envolvam as tec
 
 ## Stats GitHub
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisbmineiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbmineiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisbmineiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="207px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbmineiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" height="207px">
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chrisbmineiro&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
