@@ -2,7 +2,7 @@
   <ul>
     <li>Ola, bem-vindo ao meu perfil no GitHub! Sou Christopher, um apaixonado por tecnologia e estudante de Ciência da Computação. 😊</li>
     <li>Gosto muito de esportes e sou apaixonado por animais, pai de quatro gatos e um cachorro, que considero minha família.</li>
-    <li>Estou sempre em busca de conhecimento e gostaria de contribuir para projetos open source e parcerias para ganhar experiência, sinta-se livre para me contactar.</li>
+    <li>Estou sempre em busca de conhecimento e gostaria de contribuir para projetos open source e parcerias para ganhar experiência, sinta-se livre para me contatar.</li>
     <li>Posso contribuir no Front-End, Back-End e Infraestrutura.</li>
   </ul>
 </div>
@@ -11,7 +11,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chrisbmineiro@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511985154394)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisbmineiro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://chrisbmineiro.github.io/portfolio3)
 
 ## Algumas das tecnologias que eu tenho conhecimento:
 ### Linguagens de Programação
