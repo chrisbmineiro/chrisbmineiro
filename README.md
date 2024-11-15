@@ -1,9 +1,9 @@
 <div>
   <ul>
     <li>Ola, bem-vindo ao meu perfil no GitHub! Sou Christopher, um apaixonado por tecnologia e estudante de Ciência da Computação. 😊</li>
-    <li>Gosto muito de esportes e sou apaixonado por animais, pai de quatro gatos e um cachorro, que considero minha família.</li>
-    <li>Estou sempre em busca de conhecimento e gostaria de contribuir para projetos open source e parcerias para ganhar experiência, sinta-se livre para me contatar.</li>
-    <li>Posso contribuir no Front-End, Back-End, Mobile e Infraestrutura.</li>
+    <li>Gosto muito de esportes, ouvir musica e animais, atualmente tenho quatro gatos e um cachorro, que considero parte da minha família, também venho me engajando em causas que promovem o bem-estar dos animais e a preservação do planeta.</li>
+    <li>Estou sempre em busca de conhecimento e gostaria de contribuir para projetos open source e parcerias para ganhar experiência, sinta-se livre para me mandar mensagem.</li>
+    <li>Posso contribuir no Front-End, Back-End, Mobile e Infra.</li>
   </ul>
 </div>
 
@@ -11,18 +11,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chrisbmineiro@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511985154394)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisbmineiro/)
-[![Curriculo](https://img.shields.io/badge/CV-7A1FA2?style=for-the-badge&logoColor=white)](https://1drv.ms/w/s!AkIqnCZsKrkshZAe-01xhPIyUSvkXA?e=z2aaNt)
+[![Curriculo](https://img.shields.io/badge/CV-7A1FA2?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1GSJF9o15LaJ60M4s_jhDxfVc-UxJ-7vf/view?usp=sharing)
 
 ## Algumas das tecnologias que eu tenho conhecimento:
 ### Linguagens de Programação
-- **C/C++, C#, Java, Python, PHP:** Conhecimento básico em cada uma dessas linguagens, utilizado em projetos acadêmicos e pequenos projetos pessoais.
-- **JavaScript/TypeScript, HTML, CSS:** Nível intermediário, com experiência em desenvolvimento web. Já criei projetos full-stack usando frameworks como Next.js e React.
+- **C/C++, C#, Python, PHP:** Conhecimento básico em cada uma dessas linguagens, utilizados em projetos acadêmicos e pequenos projetos pessoais.
+- **Java, JavaScript/TypeScript, HTML, CSS:** Nível intermediário, em desenvolvimento web, já criei projetos full-stack usando frameworks como Next.js e Angular.
 
 ### Frameworks e bibliotecas
 - **Next.js, React, Expo, React Native, Angular, Tailwind, Styled Components, Spring Boot, .NET, Django:** Tenho familiaridade com esses frameworks e os utilizei em diferentes contextos, como desenvolvimento de interfaces dinâmicas e aplicações de back-end.
 
 ### Banco de Dados
-- **MySQL, PostgreSQL, MongoDB:** Tenho conhecimento básico de banco de dados relacionais e NoSQL, e já realizei operações básicas de CRUD, além de integração com APIs.
+- **MySQL, SQL Server, PostgreSQL, MongoDB:** Tenho conhecimento intermediário em banco de dados relacionais e básico em NoSQL, já realizei operações de CRUD, além de integrações com APIs e manipulação de JSON.
 
 ### Infraestrutura e Cloud
 - **AWS, Azure, Redes de Computadores:** Possuo conhecimento básico em serviços de cloud computing e redes de computadores, e estou aprendendo mais sobre como configurar e gerenciar infraestrutura em nuvem.
